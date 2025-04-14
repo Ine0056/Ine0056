@@ -1,5 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ine0056&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+いねだよ🐱
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ine0056&theme=nord&hide=javascript,html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🔗 Discord Server : https://discord.gg/fQT4YJWyaz
+[![](https://raw.githubusercontent.com/Ine0056/Ine0056/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ine0056/Ine0056/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ine0056/Ine0056/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ine0056/Ine0056/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ine0056/Ine0056/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
